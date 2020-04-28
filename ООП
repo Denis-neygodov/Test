@@ -7,3 +7,43 @@ self.memory = 32g
 def call(self):
 def take pictures(self):
 Print("Телефон")
+
+
+Class Tools():
+
+Class Drill(Tools):
+def (self, mark, power):
+self.mark = mark
+self.power = 90 v
+def spin(self):
+Print("Дрель")
+
+
+Class Clothes():
+
+Class Shirt(Clothes):
+def (self,colors, size):
+Self.colors = red
+Self.size = L
+def wear(self):
+Print("Рубашка")
+
+
+Class Plants():
+
+Class Flowers(Plants):
+def (self, title, class):
+Self.title = title
+Self.class = Dicotyledonous
+def grow(self):
+Prinr("Цветы")
+
+
+Class Drinks():
+
+Class soda(Drinks):
+def (self, brand, taste):
+Self.brand = Coca-Cola
+Self.taste = Sweet
+def tonic(self):
+Print("Газировка")
