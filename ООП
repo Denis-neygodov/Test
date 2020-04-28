@@ -1,15 +1,9 @@
-# Test
-Class Animals():
+Class Gadgets():
 
-class Dog():
-Def__init__(self,name,age):
-"""Атрибуты имя и возраст"""
-self.name = name
-self.age = age
-Def run(self):
-"" "Собака бежит" ""
-Def role(self):
-"" "Собака перекатывается" ""
-Def jump(self):
-"" "Собака прыгает" ""
-Print("Собака создана")
+Class Phone(Gadgets):
+def (self,mark,memory):
+self.mark = Huawei
+self.memory = 32g
+def call(self):
+def take pictures(self):
+Print("Телефон")
